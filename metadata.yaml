@@ -1,0 +1,38 @@
+_repo: Traicte-tresplaisant-et-recreatif-de-l-amour-parfaicte-de-Guisgardus-et-Sigismunde-fille-de-T__64129
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Fleury, Jean
+    gutenberg_agent_id: '52761'
+    url: http://www.gutenberg.org/2009/agents/52761
+creator:
+  author:
+    agent_name: Bruni, Leonardo
+    aliases:
+    - Brunus, Leonardus
+    - Leonardus, Aretinus
+    - Bruno, Leonardo
+    - Arretinus, Leonardus
+    - Aretino, Lionardo
+    - Bruni, Leonardo Aretino
+    - Aretinus, Leonardus
+    - Lionardo, Aretino
+    - Aretino, Leonardo
+    birthdate: 1369
+    deathdate: 1444
+    gutenberg_agent_id: '43839'
+    url: http://www.gutenberg.org/2009/agents/43839
+description: ''
+gutenberg_issued: '2020-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64129'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Traicté tresplaisant et recreatif de l'amour parfaicte de Guisgardus et Sigismunde
+  fille de Tancredus prince des solernitiens
+url: http://www.gutenberg.org/ebooks/64129
