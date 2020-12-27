@@ -1,10 +1,13 @@
 _repo: Traicte-tresplaisant-et-recreatif-de-l-amour-parfaicte-de-Guisgardus-et-Sigismunde-fille-de-T__64129
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Fleury, Jean
     gutenberg_agent_id: '52761'
     url: http://www.gutenberg.org/2009/agents/52761
+covers:
+- cover_type: archival
+  image_path: 64129-h/images/cover.jpg
 creator:
   author:
     agent_name: Bruni, Leonardo
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '43839'
     url: http://www.gutenberg.org/2009/agents/43839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64129#Traicte-tresplaisant-et-recreatif-de-l-amour-parfaicte-de-Guisgardus-et-Sigismunde-fille-de-T_
 gutenberg_issued: '2020-12-25'
 gutenberg_type: Text
 identifiers:
